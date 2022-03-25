@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Info-In A Nutshell</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="style1.css">
+<link href="https://fonts.googleapis.com/css?family=Lora&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Concert+One&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Lalezar&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Bangers&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Acme&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Bree+Serif&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap" rel="stylesheet">
+<link rel='icon' href='images/favicon.ico' type='image/x-icon' >
+</head>
+<body>
+<h1 class="hero-nav"><span>&nbsp; Further Reading &nbsp;</span></h1>
+<nav>
+<ul>
+<li><a href="phy.html">Physics</a></li>    
+<li><a href="astro.html">Astronomy</a></li>
+<li><a href="index.html">More Info</a></li>
+</ul>
+</nav>
+<h2 id="vedu">More Information on Standard Model of Particle Physics</h2>
+<h3>More Reading</h3>
+<div>
+<ul>
+<li><a href="https://home.cern/science/physics/standard-model">Cern</a></li>
+<li><a href="https://www.sciencealert.com/the-standard-model">Science Alert</a></li>
+<li><a href="https://www.symmetrymagazine.org/standard-model/">Symmetry Magazine</a></li>
+</ul>
+</div>
+<!--New Stuff--><iframe width="650" height="400"
+src="https://www.youtube.com/embed/X9otDixAtFw">
+</iframe>
+<h2  id="vedu">More Information on Vaccum Decay</h2>
+<h3>More Reading</h3>
+<div>
+<ul>
+<li><a href="https://cosmosmagazine.com/physics/vacuum-decay-ultimate-catastrophe">Vaccum Decay</a></li>
+<li><a href="https://www.symmetrymagazine.org/standard-model/">Higgs Boson</a></li>
+<li><a href="https://www.space.com/41654-higgs-boson-decays-bottom-quarks.html">Higgs Boson Decay</a></li>
+<li><a href="Vacuum Decay.pdf" download="newfilename">More Math and Physics on Vaccum Decay</a></li>
+</ul>
+</div>
+<!--New Stuff--><iframe width="650" height="400"
+src="https://www.youtube.com/embed/ijFm6DxNVyI">
+</iframe>
+<h2  id="vedu">More Information on String Theory</h2>
+<h3>More Reading</h3>
+<div>
+<ul>
+<li><a href="https://www.britannica.com/science/string-theory">String Theory</a></li>
+<li><a href="https://www.dummies.com/education/science/physics/string-theory-for-dummies-cheat-sheet/">String Theory for Dummies</a></li>
+<!--New Stuff--><li><a href="Quantum Mechanics.pdf" download="newfilename">Intro to Quantum Mechanics</a></li>
+<!--New Stuff--><li><a href="String.pdf" download="newfilename">String Theory: Overview</a></li>
+</ul>
+</div>
+<!--New Stuff--><iframe width="650" height="400"
+src="https://www.youtube.com/embed/Da-2h2B4faU">
+</iframe>
+<h2  id="vedu">More Information on Life Cycle of a Star</h2>
+<h3>More Reading</h3>
+<div>
+<ul>
+<li><a href="https://www.schoolsobservatory.org/learn/astro/stars/cycle">Life Cycle of a Star</a></li>
+<li><a href="https://www.aavso.org/stellar-evolution">Stellar Evolution</a></li>
+<li><a href="http://www.star.ucl.ac.uk/~pac/spectral_classification.html">Stellar Classification</a><br></li>
+</ul>
+</div>
+<!--New Stuff--><iframe width="650" height="400"
+src="https://www.youtube.com/embed/ld75W1dz-h0">
+</iframe>
+<h2  id="vedu">More Information on Neutron Stars and Pulsars</h2>
+<h3>More Reading</h3>
+<div>
+<ul>
+<li><a href="https://www.space.com/32661-pulsars.html">Pulsars</a></li>
+<li><a href="https://www.space.com/22180-neutron-stars.html">Neutron Stars</a></li>
+<li><a href="https://www.space.com/23799-black-dwarfs.html">Black Dwarfs</a></li>
+</ul>
+</div>
+<!--New Stuff--><iframe width="650" height="400"
+src="https://www.youtube.com/embed/RrMvUL8HFlM">
+</iframe>
+<h2  id="vedu">More Information on Black Holes and Information Paradox</h2>
+<h3>More Reading</h3>
+<div>
+<ul>
+<li><a href="https://www.space.com/15421-black-holes-facts-formation-discovery-sdcmp.html">Black Holes</a></li>
+<li><a href="https://phys.org/news/2015-10-black-hole-paradox.html">Black Hole Information Paradox</a></li>
+<li><a href="https://www.vox.com/science-and-health/2018/3/14/17119320/stephen-hawking-hawking-radiation-explained">Hawking Radiation</a></li>
+</ul>
+</div>
+<!--New Stuff--><iframe width="650" height="400"
+src="https://www.youtube.com/embed/yWO-cvGETRQ">
+</iframe><br><br><br><br>
+<hr>
+<footer>
+... (6 lines left)
